@@ -55,4 +55,15 @@ Socket programming finds applications in various domains, including web developm
 
 
 ## Result:
+The primary socket API functions and methods in this module are:
+
+socket()
+.bind()
+.listen()
+.accept()
+.connect()
+.connect_ex()
+.send()
+.recv()
+.close()
 Thus the study of Socket Programming Completed Successfully
